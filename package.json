@@ -2,9 +2,9 @@
   "name": "testserver",
   "version": "1.0.0",
   "description": "test server made to prototyping",
-  "main": "index.js",
+  "main": "application.js",
   "scripts": {
-    "start": "index.js",
+    "start": "application.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
