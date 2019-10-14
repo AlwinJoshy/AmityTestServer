@@ -1,3 +1,8 @@
+/*
+https://git.heroku.com/guns-poses.git
+ws://127.0.0.1:80/socket.io/?EIO=4&transport=websocket
+https://guns-poses.herokuapp.com/
+*/
 let io = require('socket.io')(process.env.PORT || 80)
 var shortID = require('shortid')
 console.log('server started')
