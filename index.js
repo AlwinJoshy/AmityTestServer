@@ -15,7 +15,7 @@ var users = [];
 
 io.on('connection', function(socket){
     console.log('connection made....');
-
+/*
     let newID = shortID.generate();
 
     sockets[newID] = socket;
@@ -55,5 +55,6 @@ io.on('connection', function(socket){
     socket.on('disconnect', function(data){
         console.log('connection broken...');
         delete sockets[data.id];
-    })   
+    })
+    */
 })
