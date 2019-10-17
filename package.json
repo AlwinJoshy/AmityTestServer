@@ -10,7 +10,6 @@
   "author": "me",
   "license": "ISC",
   "dependencies": {
-    "heroku": "^7.27.1",
     "nodemon": "^1.19.3",
     "shortid": "^2.2.15",
     "socket.io": "^2.3.0"
